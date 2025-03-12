@@ -1,10 +1,10 @@
 /*
-    Enhancements Beyond Core Requirements:
+    Enhancements And Creativity To My Journal Application:
     --------------------------------------
     1. **Mood Tracker** - Users can rate their mood (1-10) for each journal entry.
     2. **JSON-Based Storage** - Journal entries are saved in JSON format instead of plain text, improving structure and compatibility.
 
-    These additions enhance user experience and make the journal more insightful and useful.
+    These additions enhance user experience and make the journal more insightful and useful for others.
 */
 
 
